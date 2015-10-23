@@ -1,0 +1,2 @@
+io.dropwizard.metrics.kafka
+io.dropwizard.metrics.kafka.serialization
