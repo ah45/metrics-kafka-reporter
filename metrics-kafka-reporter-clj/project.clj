@@ -1,4 +1,4 @@
-(defproject metrics-kafka-reporter/reporter-clj "0.1.0-SNAPSHOT"
+(defproject metrics-kafka-reporter/reporter-clj "0.1.0"
   :url "https://github.com/ah45/metrics-kafka-reporter"
   :description "A reporter for Codahale/Dropwizard Metrics that
     publishes measurements to an Apache Kafka topic as (by default)
@@ -9,4 +9,4 @@
             :distribution :repo}
 
   :dependencies [[org.clojure/clojure "1.7.0"]
-                 [metrics-kafka-reporter "0.1.0-SNAPSHOT"]])
+                 [metrics-kafka-reporter "0.1.0"]])
